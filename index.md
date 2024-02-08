@@ -1,5 +1,5 @@
 # I Get the Hang of It!
-
+![teaser](whole_procedure_10.jpg)
 ## Author
 Wanze Li, Lexin Pan, Boren Jiang, Yuwei Wu, Weixiao Liu, Gregory S. Chirikjian
 
