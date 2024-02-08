@@ -10,5 +10,5 @@ The action of hanging previously unseen objects remains a challenge for robots d
 
 ## Links
 - [Supplementary Matrial](https://drive.google.com/file/d/1tSElpLl2EzayE5S0DUzYzR152mxgmB0A/view?usp=sharing)
-- [Video] Will be available soon
+- [Video](https://drive.google.com/file/d/1oauboZ12CiVgnD7ye9s5YguNfSOyS-Ij/view?usp=sharing)
 - Code and data will be available soon
